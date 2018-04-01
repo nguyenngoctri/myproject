@@ -1,0 +1,24 @@
+{
+    "Book":[
+        {
+            "title":"Harry Potter and the Sorcerer's stone",
+            "author":"J.k Rowling"
+        },
+        {
+            "title":"Jurassic Park",
+            "author":"Michael Crichton"
+        }
+    ],
+    "Comments":[
+        {
+            "id":"1",
+            "message":"message 1",
+            "author":"author1"
+        },
+        {
+            "id":"2",
+            "message":"message 2",
+            "author":"author 2"
+        }
+    ]
+}
